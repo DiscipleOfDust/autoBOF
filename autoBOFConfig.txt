@@ -1,0 +1,12 @@
+start: \x11(setup sound 
+end: \x90\x00#
+lengthMin: 4360
+lengthMax: 4500
+increment: 1
+targetIP: 127.0.0.1
+targetPort: 13327
+localIP: 127.0.0.1
+shellPort: 1337
+payloadAttempts: 5
+exploitName: autoExploit.py
+silent: False
